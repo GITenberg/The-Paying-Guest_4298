@@ -3,7 +3,7 @@ The Paying Guest
 =====================
 
 
-This is a git repository of the source files for the book The Paying Guest by Gissing, George. This book is in the Public Domain, see the LICENSE file for details.
+This is a git repository of the source files for the book *The Paying Guest* by George Gissing. This book is in the Public Domain, see the LICENSE file for details.
 
 Found an error?
 ===============
@@ -14,8 +14,8 @@ If you find an error in a book in GITenberg, you can report it by clicking the I
 
 Technical details
 =================
-The main source file for this book is a file with the name `4298.txt`.
-There is also an HTML version in the `4298-h` directory.
+The main source file for this book is a file with the name ``4298.txt``.
+There is also an HTML version in the ``4298-h`` directory.
 Eventually, there will be generated ebooks in the downloads area.
 
 Every repository in GITenberg contains a number of standard files, including a license text, a metadata file, and this readme file.
