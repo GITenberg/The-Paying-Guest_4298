@@ -1,0 +1,36 @@
+_repo: The-Paying-Guest_4298
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gissing, George
+    alias: Gissing, George Robert
+    birthdate: 1857
+    deathdate: 1903
+    gutenberg_agent_id: '641'
+    url: http://www.gutenberg.org/2009/agents/641
+    wikipedia: http://en.wikipedia.org/wiki/George_Gissing
+description: "The Paying Guest is a satirical novella by George Gissing, first published\
+  \ in 1895 by Cassell, as part of their Pocket Library series. It recounts the experiences\
+  \ of the Mumfords, a middle-class family who invite a \"paying guest\" into their\
+  \ home to supplement their income. Written in an unusually comic tone compared with\
+  \ Gissing's earlier works, The Paying Guest was generally received well by critics.\
+  \ Gissing himself, however, was not satisfied with the work.\n From Wikipedia (CC\
+  \ BY-SA)."
+gutenberg_issued: '2003-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4298'
+  wikidata: Q7756406
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English fiction -- 19th century'
+- !lcc 'PR'
+- !lcsh 'England -- Social life and customs -- 19th century -- Fiction'
+- GITenberg
+title: The Paying Guest
+url: http://www.gutenberg.org/ebooks/4298
+wikipedia:
+- https://en.wikipedia.org/wiki/The_Paying_Guest
